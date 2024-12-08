@@ -3,7 +3,6 @@ import CompanySeniority from "@/components/dashboard/CompanySeniority";
 import PromotionProgress from "@/components/dashboard/PromotionProgress";
 import AssessmentsInProgress from "@/components/dashboard/AssessmentsInProgress";
 import CompletedAssessments from "@/components/dashboard/CompletedAssessments";
-import StatsOverview from "@/components/dashboard/StatsOverview";
 
 const Dashboard = () => {
   return (
