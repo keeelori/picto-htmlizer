@@ -40,8 +40,8 @@ const Sidebar = () => {
         ))}
       </div>
 
-      <button className="flex items-center gap-2 px-4 py-2 bg-primary text-white rounded-lg mt-4 hover:bg-primary/90 transition-colors shadow-[0_30px_30px_-15px_rgba(0,0,0,0.77)]">
-        <Plus className="w-4 h-4" />
+      <button className="flex items-center justify-center gap-2 px-6 py-3 bg-primary text-white rounded-2xl mt-4 hover:bg-primary/90 transition-colors shadow-[0_8px_16px_rgba(0,0,0,0.1)]">
+        <Plus className="w-5 h-5" />
         New assessment
       </button>
     </div>
