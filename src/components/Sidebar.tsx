@@ -16,7 +16,7 @@ const Sidebar = () => {
   ];
 
   return (
-    <div className="h-screen w-64 border-r bg-white px-3 py-8 flex flex-col">
+    <div className="h-screen w-64 px-3 py-8 flex flex-col">
       <div className="flex items-center gap-2 px-3 mb-8">
         <div className="w-8 h-8 rounded-full bg-primary"></div>
         <span className="font-semibold text-lg">Competrace</span>
