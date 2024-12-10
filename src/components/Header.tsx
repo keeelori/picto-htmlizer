@@ -2,7 +2,7 @@ import { Search, Bell } from "lucide-react";
 
 const Header = () => {
   return (
-    <div className="flex items-center justify-between px-8 py-4 border-b bg-white">
+    <div className="flex items-center justify-between px-8 py-4">
       <div className="flex items-center gap-8">
         <div className="text-xl font-semibold">SET University</div>
         <div className="text-sm text-gray-500">Home</div>
