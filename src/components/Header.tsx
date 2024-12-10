@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div className="flex items-center justify-between px-8 py-4">
       <div className="flex items-center gap-8">
-        <div className="text-2xl font-semibold">SET University</div>
+        <div className="text-2xl font-semibold leading-none">SET University</div>
         <div className="text-sm text-gray-500">Home</div>
       </div>
 
