@@ -18,9 +18,7 @@ const Sidebar = () => {
   return (
     <div className="h-screen w-64 px-3 py-8 flex flex-col">
       <div className="flex items-center gap-3 px-3 mb-8">
-        <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center">
-          <span className="text-white text-lg">C</span>
-        </div>
+        <div className="w-10 h-10 rounded-full bg-primary" />
         <span className="text-2xl font-semibold">Competrace</span>
       </div>
       
